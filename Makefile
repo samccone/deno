@@ -8,7 +8,6 @@ TS_FILES = \
 	msg.pb.js \
 	os.ts \
 	runtime.ts \
-	text-encoding.d.ts \
 	timers.ts \
 	tsconfig.json \
 	types.ts \
